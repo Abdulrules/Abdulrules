@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdulrules
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Abdul 
+- 👀 I’m interested in Exploring the Softwares and learning new technologies
+- 🌱 I’m currently learning R Language and Python
+- 💞️ I’m looking to collaborate on Artificial Intelligence and Business Intelligence
+- 📫 How to reach me : abdulrules2244@gmail.com
 
 <!---
 Abdulrules/Abdulrules is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
